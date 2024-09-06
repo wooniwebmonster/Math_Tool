@@ -5,3 +5,5 @@ return a+b
 def subtract(a, b):
 return ab
 
+def multiply(a, b):
+    returna*b
